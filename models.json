@@ -2,34 +2,34 @@
   "version": 1,
   "models": [
     {
-      "id": "flux-pro",
-      "label": "🚀 Flux.1 Pro (Standard)",
+      "id": "google-nano",
+      "label": "🍌 Nano Banana (Pro)",
+      "owner": "google",
+      "name": "nano-banana-pro",
+      "type": "google"
+    },
+    {
+      "id": "flux-2-pro",
+      "label": "🚀 Flux 2 Pro (Standard)",
       "owner": "black-forest-labs",
-      "name": "flux-1.1-pro",
+      "name": "flux-2-pro",
       "type": "flux"
     },
     {
-      "id": "flux-dev",
-      "label": "⚡ Flux.1 Dev (Schnell & Günstig)",
+      "id": "flux-2-flex",
+      "label": "💎 Flux 2 Flex (High Quality)",
       "owner": "black-forest-labs",
-      "name": "flux-dev",
+      "name": "flux-2-flex",
+      "type": "flux",
+      "flags": ["flex"]
+    },
+    {
+      "id": "flux-2-dev",
+      "label": "⚡ Flux 2 Dev (Schnell)",
+      "owner": "black-forest-labs",
+      "name": "flux-2-dev",
       "type": "flux",
       "flags": ["dev"]
-    },
-    {
-      "id": "flux-schnell",
-      "label": "🏎️ Flux.1 Schnell (Turbo)",
-      "owner": "black-forest-labs",
-      "name": "flux-schnell",
-      "type": "flux",
-      "flags": ["schnell"]
-    },
-    {
-      "id": "ideogram",
-      "label": "🎨 Ideogram v2 (Text-Profi)",
-      "owner": "ideogram-ai",
-      "name": "ideogram-v2",
-      "type": "flux"
     }
   ]
 }
