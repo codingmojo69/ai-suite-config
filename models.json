@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "flux-pro",
+      "label": "🚀 Flux.1 Pro (Standard)",
+      "owner": "black-forest-labs",
+      "name": "flux-1.1-pro",
+      "type": "flux"
+    },
+    {
+      "id": "flux-dev",
+      "label": "⚡ Flux.1 Dev (Schnell & Günstig)",
+      "owner": "black-forest-labs",
+      "name": "flux-dev",
+      "type": "flux",
+      "flags": ["dev"]
+    },
+    {
+      "id": "flux-schnell",
+      "label": "🏎️ Flux.1 Schnell (Turbo)",
+      "owner": "black-forest-labs",
+      "name": "flux-schnell",
+      "type": "flux",
+      "flags": ["schnell"]
+    },
+    {
+      "id": "ideogram",
+      "label": "🎨 Ideogram v2 (Text-Profi)",
+      "owner": "ideogram-ai",
+      "name": "ideogram-v2",
+      "type": "flux"
+    }
+  ]
+}
