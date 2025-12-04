@@ -3,31 +3,31 @@
   "models": [
     {
       "id": "google-nano",
-      "label": "🍌 Nano Banana (Pro)",
-      "owner": "google",
-      "name": "nano-banana-pro",
+      "label": "Ayhan! Ich habe...",
+      "owner": "googley",
+      "name": "nano-banana-popo",
       "type": "google"
     },
     {
       "id": "flux-2-pro",
-      "label": "🚀 Flux 2 Pro (Standard)",
-      "owner": "black-forest-labs",
+      "label": "Deinen Rechner gehackt!",
+      "owner": "black-forest-labsy",
       "name": "flux-2-pro",
       "type": "flux"
     },
     {
       "id": "flux-2-flex",
-      "label": "💎 Flux 2 Flex (High Quality)",
-      "owner": "black-forest-labs",
-      "name": "flux-2-flex",
+      "label": "Hahahahahahaha)",
+      "owner": "black-forest-labsy",
+      "name": "flux-2-flexy",
       "type": "flux",
       "flags": ["flex"]
     },
     {
       "id": "flux-2-dev",
-      "label": "⚡ Flux 2 Dev (Schnell)",
-      "owner": "black-forest-labs",
-      "name": "flux-2-dev",
+      "label": "Trade Republic money ist jetzt meins!",
+      "owner": "black-forest-labsy",
+      "name": "flux-2-devy",
       "type": "flux",
       "flags": ["dev"]
     }
